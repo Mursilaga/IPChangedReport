@@ -6,4 +6,6 @@ Edit checkip.sh, insert your full path to sendemail.sh and file, which contain i
 
 ### Requirements:
 - curl
+apt-get install curl
 - sendEmail tool
+apt-get install sendemail
